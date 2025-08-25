@@ -19,7 +19,7 @@ yum install unzip
 
 unzip -d /opt gradle-8.12.1-bin.zip
 
-export PATH=${PATH:+$PATH:}/opt/gradle-8.12.1/bin
+export PATH=${PATH:+$PATH:}/opt/gradle-9.0.0/bin
 
 gradle -v
 
